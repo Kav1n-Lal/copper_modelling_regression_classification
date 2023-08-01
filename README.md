@@ -4,6 +4,7 @@
 - Create a new environment called 'ml_coppermodelling' using conda prompt.Ref link [https://www.youtube.com/watch?v=xl0N7tHiwlw&t=1806s]
 - Run **copper_modelling_regressor_model_final.ipynb** file,you will get **saved_steps_regressor.pkl** file.(TO PREDICT COPPER SELLING PRICE)
 - Similarly run **copper_modelling_classifier_model_final.ipynb** file,you will get **saved_steps_classifier.pkl** file.(TO PREDICT COPPER STATUS)
+- The other .ipynb files(*CopperModelling_1,CopperModelling_2,copper_modelling_classifier*) contains Data preprocessing,various model training and evaluation,feature selections I did before finding out the best model.
 - - ## Regression R2 score Table
 |    Model             |  Train(R2-score)   |  Test(R2-score)   |
 | :------------------- | -----------------  |-----------------: |
@@ -31,7 +32,7 @@
 - On the VScode terminal,type 'streamlit run prediction_app.py'
 - The app is now deployed
 - ## Screenshots from the app
-![Screenshot (237)](https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/77592fe1-ea1c-481a-982e-37c4a2ac51f4)
+
 |![Screenshot (238)](https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/73cde17f-507d-4cd5-86a7-8af77360db60)
 ![Screenshot (239)](https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/fb726a75-f694-4035-b574-75e5d2301382)
 ![Screenshot (240)](https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/2edc4b74-e8d6-491d-bd2c-302efb27a530)
