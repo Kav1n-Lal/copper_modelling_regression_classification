@@ -1,4 +1,5 @@
 # copper_modelling_regression_classification
+- Problem statement link [https://docs.google.com/document/d/1nWKUnD6F76F1AtGFEjyfIVH9oxcBUU1N/edit] 
 - Download all the files in this repository
 - The aim of this project is to predict copper selling price(regression) and copper status(classification) and create a user interactable app using streamlit to predict copper selling price and status.
 - Create a new environment called 'ml_coppermodelling' using conda prompt.Ref link [https://www.youtube.com/watch?v=xl0N7tHiwlw&t=1806s]
