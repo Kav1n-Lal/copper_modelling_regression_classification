@@ -1,6 +1,6 @@
 # copper_modelling_regression_classification
 - Problem statement link [https://docs.google.com/document/d/1nWKUnD6F76F1AtGFEjyfIVH9oxcBUU1N/edit]
-- [https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/eefa807a-6699-4223-b286-366b849a153c]
+- https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/eefa807a-6699-4223-b286-366b849a153c
 
 
 - Download all the files in this repository
