@@ -1,11 +1,15 @@
-# copper_modelling_regression_classification
+# copper_modelling_regression_classification_streamlit_app
 - Problem statement link [https://docs.google.com/document/d/1nWKUnD6F76F1AtGFEjyfIVH9oxcBUU1N/edit]
 ### Intro-project_overview 
 [https://drive.google.com/file/d/1IQxzLM-HqlOYK5MYxUkzipSPD6uIYxOm/view?usp=sharing]
-### Regression notebook explanation
+### Regression task notebook explanation
 - part1 [https://drive.google.com/file/d/1cRy83uhygZf_Bz76hYFznI5YHbpFmYU2/view?usp=sharing]
 - part2 [https://drive.google.com/file/d/1RNDDG8KPYGVGZBSGON4k1zuvLSm_PRJF/view?usp=sharing]
 - part3 [https://drive.google.com/file/d/1Vqahkf1ICqXVcSWlT-yrP4gasBVI5Z8H/view?usp=sharing]
+### Classification task notebook explanation
+- part1[https://drive.google.com/file/d/1RwhTpQzMxH8Qb3OYZjiedQpQdXJvN6Ur/view?usp=sharing]
+- part2[https://drive.google.com/file/d/16rA3bxsYXUpKnJ_khHNhf7to_KaLsBog/view?usp=sharing]
+- part3[https://drive.google.com/file/d/1KYvaVZPeNYxy5mK5J2nTToRt5LLQSRFT/view?usp=sharing]
 ### App Demo
 - [https://drive.google.com/file/d/1nRNhhHtLJ258XeWICgxKfm5nJbVsVQMe/view?usp=sharing]
 - Download all the files in this repository
