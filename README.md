@@ -1,4 +1,4 @@
-# KINDLY SWITCH OVER TO THE **UPDATED_ML_COPPER_MODELLING** REPOSITORY FOR THE UPDATED VERSION OF THIS PROJECT 
+# KINDLY SWITCH OVER TO THE *UPDATED_ML_COPPER_MODELLING* REPOSITORY FOR THE UPDATED VERSION OF THIS PROJECT 
 ## copper_modelling_regression_classification_streamlit_app
 - Problem_statement_link [https://docs.google.com/document/d/1nWKUnD6F76F1AtGFEjyfIVH9oxcBUU1N/edit]
 ### Intro-project_overview_video 
